@@ -1,3 +1,5 @@
+PostmanLink: https://api.postman.com/collections/18483763-b3b40514-2abb-44c0-b250-9c78bff9868c?access_key=PMAT-01HW34ZSD3CYK3XT3NZ523886J
+
 Design Decisions:
 1. A bookingID is tied to a slotID
 2. Slot is an entity in database. A cron job can be created to add/delete slots data from db based on how far in the future bookings are accepted.
